@@ -161,4 +161,4 @@
 
 开源不易，如果本项目对你有帮助，你可以请老马喝一杯奶茶。
 
-<img src="https://github.com/houbb/sensitive-word-data/raw/master/lmxxf_reword.png?raw=true" style="width: 300px; height: 200px;"/>
+<img src="https://github.com/houbb/sensitive-word/raw/master/lmxxf_reword.png?raw=true" style="width: 300px; height: 200px;"/>
